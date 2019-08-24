@@ -1,0 +1,33 @@
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Writings</title>
+<style>
+	body{
+		margin:1em auto;
+		max-width:40em;
+		padding:0 .62em;
+		font:1.2em/1.62 sans-serif;
+	}
+	h1,h2,h3 {
+		line-height:1.2;
+	}
+	@media print{
+		body{
+			max-width:none
+		}
+	}
+</style>
+<body>
+<header>
+<h1>Other writings</h1>
+<aside>“A Cabinet of the Ordinary: Domesticating Veterinary Education, 1766-1799,” <em>The British Journal for the History of Science</em> (2018) 51.2, pp. 239-260</aside>
+<p>Abstract. In the late eighteenth century, the Ecole vétérinaire d’Alfort was renowned for its innovative veterinary education and for having one of the largest natural history and anatomy collections in France. Yet aside from a recent interest in the works of one particular anatomist, the school’s history has been mostly ignored. I examine here the fame of the school in eighteenth-century travel literature, the historic connection between veterinary science and natural history, and the relationship between the school’s hospital and its esteemed cabinet. Using the correspondence papers of veterinary administrators, state representatives and competing scientific institutions during the French Revolution, I argue that resource con- straints and the management of anatomical and natural history specimens produced new dis- ciplinary boundaries between natural history, veterinary medicine and human medicine, while reinforcing geographic divisions between the local and the foreign in the study of non- human animals. This paper reconstructs the Ancien Régime reasoning that veterinary students would benefit from a global perspective on animality, and the Revolutionary government’s rejection of that premise. Under republicanism, veterinary medicine became domestic.</p>
+<aside><a href=https://www.oxfordbibliographies.com/view/document/obo-9780199830060/obo-9780199830060-0206.xml>“European Natural History Traditions,”</a> <em>Oxford Bibliographies,</em> “Ecology” with Harriet Ritvo
+<header>
+<h2>Book Reviews</h2>
+<p>Henrietta McBurney, Ian Rolfe, Caterina Napoleone, and Paula Findlen (eds.). The Paper Museum of Cassiano dal Pozzo. Series B, Parts IV-V: Natural History: Birds, Other Animals and Natural Curiosities (Harvey Miller Brepols: 2017), 2 vols. For Nuncius 33.1, pp. 151-154.</p>
+<p>Bruno Colson (ed.). Napoleon: On War (Oxford University Press, 2015). For Revista Universitaria de Historia Militar 7.14, pp. 265-268</p>
+<p>Kathleen Hardesty Doig. From ‘Encyclopédie’ to ‘Encyclopédique méthodique’: Revision & Expansion (Voltaire Foundation: 2013). For The British Journal for the History of Science 48.3, pp. 513-514</p>
+</body>
+</html>
